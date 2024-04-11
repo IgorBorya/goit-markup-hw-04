@@ -450,7 +450,7 @@ p {
   justify-content: center;
 }
 
-.socmediaa:hover:focus {
+.secondsocmediaa:hover::after {
   background-color: #31d0aa;
 }
 
