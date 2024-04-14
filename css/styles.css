@@ -298,7 +298,6 @@ p {
 .third_section_firstli {
   height: 40px;
   width: 40px;
-  margin: 0 auto;
 }
 
 .third_section_firsta {
@@ -449,8 +448,8 @@ p {
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.secondsocmediaa:hover:focus,
-.secondsocmefiaa:focus {
+.secondsocmediaa:hover,
+.secondsocmediaa:focus {
   background-color: #31d0aa;
 }
 
