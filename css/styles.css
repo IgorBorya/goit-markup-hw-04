@@ -155,6 +155,7 @@ p {
   background-repeat: no-repeat;
   background-size: cover;
   padding: 188px 0;
+  margin: 0 auto;
 }
 
 .hero-image .hero-title {
