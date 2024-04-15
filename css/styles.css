@@ -294,6 +294,8 @@ p {
   display: flex;
   justify-content: center;
   gap: 24px;
+  align-items: center;
+  padding-top: 8px;
 }
 
 .third_section_firstli {
